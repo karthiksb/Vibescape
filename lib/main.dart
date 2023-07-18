@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
               label: 'Library',
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.library_books),
+              icon: Icon(Icons.workspace_premium),
               label: 'Library',
             ),
           ],
